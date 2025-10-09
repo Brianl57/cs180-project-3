@@ -1,0 +1,8 @@
+index,title,filename,path,width,height,channels
+1,Keyboard - Source,01_Keyboard_-_Source.jpg,output/01_Keyboard_-_Source.jpg,1008,756,3
+2,Keyboard - Warped (NN),02_Keyboard_-_Warped_(NN).jpg,output/02_Keyboard_-_Warped_(NN).jpg,3199,7829,3
+3,Student Id - Source,03_Student_Id_-_Source.jpg,output/03_Student_Id_-_Source.jpg,1027,916,3
+4,Student Id - Warped (Bilinear),04_Student_Id_-_Warped_(Bilinear).jpg,output/04_Student_Id_-_Warped_(Bilinear).jpg,6216,4835,3
+5,Macbook Mosaic,05_Macbook_Mosaic.jpg,output/05_Macbook_Mosaic.jpg,2201,1384,3
+6,Berkeley Waywest Mosaic,06_Berkeley_Waywest_Mosaic.jpg,output/06_Berkeley_Waywest_Mosaic.jpg,3892,1768,3
+7,Cory Hall Mosaic,07_Cory_Hall_Mosaic.jpg,output/07_Cory_Hall_Mosaic.jpg,3892,1768,3
