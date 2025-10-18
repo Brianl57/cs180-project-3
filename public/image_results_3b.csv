@@ -1,0 +1,20 @@
+index,title,filename,path,width,height,channels
+1,Harris Corners: Macbook Mid,01_Harris_Corners_Macbook_Mid.jpg,output/01_Harris_Corners_Macbook_Mid.jpg,1008,756,3
+2,Harris Corners: Berkeley Waywest Mid,02_Harris_Corners_Berkeley_Waywest_Mid.jpg,output/02_Harris_Corners_Berkeley_Waywest_Mid.jpg,1008,756,3
+3,Harris Corners: Cory Hall Mid,03_Harris_Corners_Cory_Hall_Mid.jpg,output/03_Harris_Corners_Cory_Hall_Mid.jpg,1008,756,3
+4,ANMS-selected Corners: Macbook Mid,04_ANMS-selected_Corners_Macbook_Mid.jpg,output/04_ANMS-selected_Corners_Macbook_Mid.jpg,1008,756,3
+5,ANMS-selected Corners: Berkeley Waywest Mid,05_ANMS-selected_Corners_Berkeley_Waywest_Mid.jpg,output/05_ANMS-selected_Corners_Berkeley_Waywest_Mid.jpg,1008,756,3
+6,ANMS-selected Corners: Cory Hall Mid,06_ANMS-selected_Corners_Cory_Hall_Mid.jpg,output/06_ANMS-selected_Corners_Cory_Hall_Mid.jpg,1008,756,3
+7,Patch 0,07_Patch_0.jpg,output/07_Patch_0.jpg,8,8,1
+8,Patch 1,08_Patch_1.jpg,output/08_Patch_1.jpg,8,8,1
+9,Patch 2,09_Patch_2.jpg,output/09_Patch_2.jpg,8,8,1
+10,Patch 3,10_Patch_3.jpg,output/10_Patch_3.jpg,8,8,1
+11,Patch 4,11_Patch_4.jpg,output/11_Patch_4.jpg,8,8,1
+12,Patch 5,12_Patch_5.jpg,output/12_Patch_5.jpg,8,8,1
+13,Patch 6,13_Patch_6.jpg,output/13_Patch_6.jpg,8,8,1
+14,Patch 7,14_Patch_7.jpg,output/14_Patch_7.jpg,8,8,1
+15,Patch 8,15_Patch_8.jpg,output/15_Patch_8.jpg,8,8,1
+16,Patch 9,16_Patch_9.jpg,output/16_Patch_9.jpg,8,8,1
+17,Patch 10,17_Patch_10.jpg,output/17_Patch_10.jpg,8,8,1
+18,Patch 11,18_Patch_11.jpg,output/18_Patch_11.jpg,8,8,1
+19,Macbook - Descriptor Sample Points,19_Macbook_-_Descriptor_Sample_Points.jpg,output/19_Macbook_-_Descriptor_Sample_Points.jpg,1008,756,3
